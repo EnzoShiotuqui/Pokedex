@@ -28,7 +28,7 @@ Open with live server
 
 
 ## ScreenShot
-![screenshot](print.png)
+![screenshot](Screenshot_1.png)
 
 ## Authors
 
